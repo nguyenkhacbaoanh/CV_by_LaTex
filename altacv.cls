@@ -34,7 +34,7 @@
 \ProcessOptions\relax
 
 \LoadClass{extarticle}
-
+\usepackage[document]{ragged2e}
 \RequirePackage[margin=2cm]{geometry}
 \RequirePackage{fontawesome}
 \RequirePackage{ifxetex,ifluatex}
